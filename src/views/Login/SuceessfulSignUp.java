@@ -49,7 +49,7 @@ public class SuceessfulSignUp extends javax.swing.JDialog {
 
         jPanel2.setBackground(new java.awt.Color(2, 45, 63));
 
-        panelRound3.setBackground(new java.awt.Color(255, 255, 254));
+        panelRound3.setBackground(new java.awt.Color(255, 255, 255));
         panelRound3.setRoundBottomLeft(20);
         panelRound3.setRoundBottomRight(20);
         panelRound3.setRoundTopLeft(20);
